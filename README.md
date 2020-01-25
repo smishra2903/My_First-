@@ -1,3 +1,3 @@
-# Notes-taking_Toki
+# Notes-taking
 
 This is a Web Application 
